@@ -1,6 +1,5 @@
 <?php 
 echo "Emily starts.";
 echo "変更しちゃうぞ〜〜〜〜〜〜〜〜！";
-echo "本日の変更";
-
+echo "変更うううううううう";
  ?>
