@@ -4,4 +4,5 @@
 「入口は１つ。出口は２つ。これなーんだ？」
 答え考え中
 
-retry
+wakaranai--
+wakaranai--
